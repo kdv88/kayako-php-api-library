@@ -1,5 +1,5 @@
 {
-    "name": "detain/kayako-php-api-library",
+    "name": "kdv88/kayako-php-api-library",
     "description": "PHP API library for Kayako",
     "require": {
         "php": ">=5.3.0",
